@@ -12,7 +12,7 @@ sites:
   - name: Client Area
     url: https://www.thexyz.com
   - name: Quarantine
-    url: https://quarantinethexyz.com
+    url: https://quarantine.thexyz.com
   - name: Blocklists
     url: https://bl.thexyz.com  
   - name: Roundcube
