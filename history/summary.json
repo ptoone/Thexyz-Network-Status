@@ -76,19 +76,19 @@
     "url": "https://quarantine.thexyz.com",
     "icon": "https://icons.duckduckgo.com/ip3/quarantine.thexyz.com.ico",
     "slug": "quarantine",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1119,
-    "timeDay": 855,
-    "timeWeek": 1119,
-    "timeMonth": 1119,
-    "timeYear": 1119,
+    "status": "up",
+    "uptime": "99.63%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
+    "time": 1072,
+    "timeDay": 801,
+    "timeWeek": 1072,
+    "timeMonth": 1072,
+    "timeYear": 1072,
     "dailyMinutesDown": {
-      "2023-02-11": 0
+      "2023-02-11": 22
     }
   },
   {
