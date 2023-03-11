@@ -77,11 +77,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/quarantine.thexyz.com.ico",
     "slug": "quarantine",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
+    "uptimeYear": "99.79%",
     "time": 1301,
     "timeDay": 894,
     "timeWeek": 1449,
@@ -115,9 +115,9 @@
     "url": "https://webmail.thexyzserver.com",
     "icon": "https://icons.duckduckgo.com/ip3/webmail.thexyzserver.com.ico",
     "slug": "roundcube",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -126,7 +126,9 @@
     "timeWeek": 799,
     "timeMonth": 750,
     "timeYear": 741,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-11": 0
+    }
   },
   {
     "name": "Virtual Private Servers",
