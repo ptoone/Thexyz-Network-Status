@@ -115,10 +115,10 @@
     "url": "https://webmail.thexyzserver.com",
     "icon": "https://icons.duckduckgo.com/ip3/webmail.thexyzserver.com.ico",
     "slug": "roundcube",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 752,
@@ -126,16 +126,18 @@
     "timeWeek": 842,
     "timeMonth": 766,
     "timeYear": 752,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-15": 1
+    }
   },
   {
     "name": "Virtual Private Servers",
     "url": "https://login.thexyzserver.com",
     "icon": "https://icons.duckduckgo.com/ip3/login.thexyzserver.com.ico",
     "slug": "virtual-private-servers",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -144,6 +146,8 @@
     "timeWeek": 662,
     "timeMonth": 748,
     "timeYear": 701,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-15": 0
+    }
   }
 ]
