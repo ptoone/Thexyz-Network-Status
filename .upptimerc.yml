@@ -37,9 +37,18 @@ status-website:
   faviconSvg: https://www.thexyz.com/images/main-logo-text-white.png
   links:
     - rel: stylesheet
-      href: https://www.thexyz.com/css/downly.css 
-  i18n:
-  footer: Network Status monitered by [Downly](https://downly.net)
+      href: https://www.thexyz.com/css/downly.css
+      
+user-agent: thexyz
+i18n:
+  footer: This project is [open source]($REPO), if you need help, check the [Wiki](https://wiki.downly.net)
+  up: "✅ Up"
+  degraded: "⚠️ Degraded"
+  down: "🚨 Down"
+  liveStatusHtmlComment: "<!--live status-->"
+  allSystemsOperational: "All monitered services are currenly operational"
+  degradedPerformance: "⚠️ Degraded performance"
+  completeOutage: "🚨 Complete outage"
   
     
   metaTags:
