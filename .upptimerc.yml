@@ -28,13 +28,16 @@ status-website:
   logoUrl: https://www.thexyz.com/images/main-logo-text-white.png
   name: Network Status
   introTitle: "**Real-time** uptime data to monitor and status Thexyz products."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: For detailed data visit our [Network Status Page](https://www.thexyz.com/account/serverstatus.php).
   navbar:
     - title: Home
       href: https://www.thexyz.com
   theme: dark    
   favicon: https://www.thexyz.com/favicon.ico
   faviconSvg: https://www.thexyz.com/images/main-logo-text-white.png
+  links:
+    - rel: stylesheet
+      href: https://www.thexyz.com/css/downly.css
   
   i18n:
   footer: Network Status monitered by [Downly](https://downly.net)
