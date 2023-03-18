@@ -5,20 +5,28 @@ repo: Thexyz-Network-Status # The name of this repository
 sites:
   - name: DNS
     url: https://dns.thexyz.com
+    icon: https://www.thexyz.com/favicon.ico
   - name: Webmail
     url: https://webmail.thexyz.com
+    icon: https://www.thexyz.com/favicon.ico
   - name: Email Admin
     url: https://admin.thexyz.com
+    icon: https://www.thexyz.com/favicon.ico
   - name: Client Area
     url: https://www.thexyz.com
+    icon: https://www.thexyz.com/favicon.ico
   - name: Quarantine
     url: https://quarantine.thexyz.com
+    icon: https://www.thexyz.com/favicon.ico
   - name: Blocklists
-    url: https://bl.thexyz.com  
+    url: https://bl.thexyz.com
+    icon: https://www.thexyz.com/favicon.ico
   - name: Roundcube
-    url: https://webmail.thexyzserver.com 
+    url: https://webmail.thexyzserver.com
+    icon: https://www.thexyz.com/favicon.ico
   - name: Virtual Private Servers
-    url: https://login.thexyzserver.com   
+    url: https://login.thexyzserver.com
+    icon: https://www.thexyz.com/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
