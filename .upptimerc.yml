@@ -29,6 +29,7 @@ status-website:
   name: Network Status
   introTitle: "**Real-time** uptime data to monitor and status Thexyz products."
   introMessage: For detailed data visit our [Network Status Page](https://www.thexyz.com/account/serverstatus.php).
+  footer: This project is [open source]($REPO), if you need help, check the [Wiki](https://wiki.downly.net)
   navbar:
     - title: Home
       href: https://www.thexyz.com
