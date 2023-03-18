@@ -37,10 +37,10 @@ status-website:
   faviconSvg: https://www.thexyz.com/images/main-logo-text-white.png
   links:
     - rel: stylesheet
-      href: https://www.thexyz.com/css/downly.css
-  
+      href: https://www.thexyz.com/css/downly.css 
   i18n:
   footer: Network Status monitered by [Downly](https://downly.net)
+  
     
   metaTags:
     - name: "color-scheme"
