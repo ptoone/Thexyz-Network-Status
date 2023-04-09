@@ -98,9 +98,9 @@
     "url": "https://bl.thexyz.com",
     "icon": "https://www.thexyz.com/favicon.ico",
     "slug": "blocklists",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -109,7 +109,9 @@
     "timeWeek": 608,
     "timeMonth": 611,
     "timeYear": 682,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-09": 0
+    }
   },
   {
     "name": "Roundcube",
