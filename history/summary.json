@@ -40,18 +40,20 @@
     "url": "https://admin.thexyz.com",
     "icon": "https://www.thexyz.com/favicon.ico",
     "slug": "email-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 789,
-    "timeDay": 346,
-    "timeWeek": 1001,
-    "timeMonth": 768,
-    "timeYear": 789,
-    "dailyMinutesDown": {}
+    "time": 783,
+    "timeDay": 326,
+    "timeWeek": 914,
+    "timeMonth": 753,
+    "timeYear": 783,
+    "dailyMinutesDown": {
+      "2023-05-02": 0
+    }
   },
   {
     "name": "Client Area",
@@ -111,7 +113,7 @@
     "uptimeYear": "100.00%",
     "time": 674,
     "timeDay": 603,
-    "timeWeek": 597,
+    "timeWeek": 598,
     "timeMonth": 643,
     "timeYear": 674,
     "dailyMinutesDown": {}
