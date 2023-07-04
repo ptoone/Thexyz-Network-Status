@@ -109,19 +109,19 @@
     "url": "https://bl.thexyz.com",
     "icon": "https://www.thexyz.com/favicon.ico",
     "slug": "blocklists",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 669,
-    "timeDay": 667,
-    "timeWeek": 672,
-    "timeMonth": 641,
+    "timeDay": 687,
+    "timeWeek": 676,
+    "timeMonth": 643,
     "timeYear": 669,
     "dailyMinutesDown": {
-      "2023-07-04": 0
+      "2023-07-04": 10
     }
   },
   {
