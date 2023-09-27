@@ -22,19 +22,19 @@
     "url": "https://webmail.thexyz.com",
     "icon": "https://www.thexyz.com/favicon.ico",
     "slug": "webmail",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 373,
-    "timeDay": 151,
-    "timeWeek": 377,
-    "timeMonth": 466,
-    "timeYear": 373,
+    "time": 372,
+    "timeDay": 164,
+    "timeWeek": 352,
+    "timeMonth": 457,
+    "timeYear": 372,
     "dailyMinutesDown": {
-      "2023-09-27": 0
+      "2023-09-27": 11
     }
   },
   {
