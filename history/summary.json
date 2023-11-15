@@ -4,9 +4,9 @@
     "url": "https://dns.thexyz.com",
     "icon": "https://www.thexyz.com/favicon.ico",
     "slug": "dns",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 680,
     "timeMonth": 600,
     "timeYear": 662,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-15": 0
+    }
   },
   {
     "name": "Webmail",
