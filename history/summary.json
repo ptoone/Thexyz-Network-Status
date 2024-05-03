@@ -25,9 +25,9 @@
     "url": "https://webmail.thexyz.com",
     "icon": "https://www.thexyz.com/favicon.ico",
     "slug": "webmail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.82%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.89%",
@@ -37,6 +37,7 @@
     "timeMonth": 272,
     "timeYear": 351,
     "dailyMinutesDown": {
+      "2024-05-03": 0,
       "2024-04-30": 119,
       "2024-02-05": 436
     }
