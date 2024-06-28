@@ -1,7 +1,7 @@
 url: https://admin.thexyz.com
-status: up
-code: 200
-responseTime: 892
-lastUpdated: 2024-06-27T23:20:09.768Z
+status: down
+code: 502
+responseTime: 7706
+lastUpdated: 2024-06-28T04:00:21.704Z
 startTime: 2023-02-07T20:48:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
