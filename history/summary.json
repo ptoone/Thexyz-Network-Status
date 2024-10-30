@@ -100,9 +100,9 @@
     "url": "https://quarantine.thexyz.com",
     "icon": "https://www.thexyz.com/favicon.ico",
     "slug": "quarantine",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.80%",
@@ -112,6 +112,7 @@
     "timeMonth": 690,
     "timeYear": 791,
     "dailyMinutesDown": {
+      "2024-10-30": 0,
       "2024-10-03": 57,
       "2024-09-22": 30,
       "2024-09-06": 103,
@@ -164,7 +165,7 @@
     "timeDay": 753,
     "timeWeek": 815,
     "timeMonth": 723,
-    "timeYear": 864,
+    "timeYear": 865,
     "dailyMinutesDown": {
       "2024-08-02": 23,
       "2024-05-07": 17,
@@ -190,7 +191,7 @@
     "timeDay": 793,
     "timeWeek": 671,
     "timeMonth": 609,
-    "timeYear": 609,
+    "timeYear": 610,
     "dailyMinutesDown": {
       "2024-10-07": 19,
       "2024-08-15": 107,
