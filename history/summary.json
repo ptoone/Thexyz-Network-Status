@@ -82,7 +82,7 @@
     "timeDay": 476,
     "timeWeek": 473,
     "timeMonth": 472,
-    "timeYear": 484,
+    "timeYear": 485,
     "dailyMinutesDown": {
       "2024-08-28": 34,
       "2024-07-06": 15,
@@ -180,9 +180,9 @@
     "url": "https://login.thexyzserver.com",
     "icon": "https://www.thexyz.com/favicon.ico",
     "slug": "virtual-private-servers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "98.98%",
@@ -192,6 +192,7 @@
     "timeMonth": 358,
     "timeYear": 565,
     "dailyMinutesDown": {
+      "2024-12-28": 0,
       "2024-12-26": 25,
       "2024-12-20": 23,
       "2024-12-04": 45,
