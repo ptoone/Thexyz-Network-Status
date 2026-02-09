@@ -154,7 +154,7 @@
     "time": 680,
     "timeDay": 681,
     "timeWeek": 630,
-    "timeMonth": 693,
+    "timeMonth": 690,
     "timeYear": 702,
     "dailyMinutesDown": {
       "2026-01-12": 29,
@@ -181,9 +181,9 @@
     "url": "https://webmail.thexyzserver.com",
     "icon": "https://www.thexyz.com/favicon.ico",
     "slug": "roundcube",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.95%",
@@ -193,6 +193,7 @@
     "timeMonth": 639,
     "timeYear": 442,
     "dailyMinutesDown": {
+      "2026-02-09": 0,
       "2026-01-12": 16,
       "2026-01-09": 51,
       "2025-11-12": 53,
