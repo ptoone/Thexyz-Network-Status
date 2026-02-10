@@ -14,7 +14,7 @@
     "timeDay": 605,
     "timeWeek": 512,
     "timeMonth": 522,
-    "timeYear": 580,
+    "timeYear": 581,
     "dailyMinutesDown": {
       "2025-07-23": 24
     }
@@ -62,13 +62,13 @@
     "url": "https://www.thexyz.com",
     "icon": "https://www.thexyz.com/favicon.ico",
     "slug": "client-area",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "87.68%",
-    "uptimeWeek": "97.10%",
+    "uptimeDay": "87.66%",
+    "uptimeWeek": "97.09%",
     "uptimeMonth": "99.09%",
     "uptimeYear": "99.27%",
-    "time": 709,
+    "time": 710,
     "timeDay": 626,
     "timeWeek": 453,
     "timeMonth": 499,
