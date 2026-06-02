@@ -67,10 +67,10 @@
     "slug": "client-area",
     "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.02%",
-    "uptimeYear": "98.44%",
+    "uptimeDay": "97.27%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "98.43%",
     "time": 715,
     "timeDay": 564,
     "timeWeek": 674,
@@ -147,7 +147,7 @@
       "2026-05-10": 53,
       "2026-05-23": 133,
       "2026-05-24": 139,
-      "2026-06-02": 0
+      "2026-06-02": 39
     }
   },
   {
