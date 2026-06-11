@@ -65,17 +65,17 @@
     "url": "https://www.thexyz.com",
     "icon": "https://www.thexyz.com/favicon.ico",
     "slug": "client-area",
-    "status": "down",
+    "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "97.26%",
-    "uptimeMonth": "97.62%",
-    "uptimeYear": "98.31%",
+    "uptimeDay": "92.60%",
+    "uptimeWeek": "96.20%",
+    "uptimeMonth": "97.38%",
+    "uptimeYear": "98.29%",
     "time": 719,
-    "timeDay": 421,
-    "timeWeek": 743,
-    "timeMonth": 544,
-    "timeYear": 754,
+    "timeDay": 463,
+    "timeWeek": 713,
+    "timeMonth": 543,
+    "timeYear": 753,
     "dailyMinutesDown": {
       "2025-06-21": 21,
       "2025-06-26": 54,
@@ -148,7 +148,7 @@
       "2026-06-02": 287,
       "2026-06-04": 206,
       "2026-06-08": 276,
-      "2026-06-11": 0
+      "2026-06-11": 107
     }
   },
   {
