@@ -260,17 +260,17 @@
     "url": "https://login.thexyzserver.com",
     "icon": "https://www.thexyz.com/favicon.ico",
     "slug": "virtual-private-servers",
-    "status": "down",
+    "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.87%",
+    "uptimeDay": "93.23%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.85%",
     "time": 343,
-    "timeDay": 154,
-    "timeWeek": 237,
-    "timeMonth": 374,
-    "timeYear": 360,
+    "timeDay": 206,
+    "timeWeek": 239,
+    "timeMonth": 370,
+    "timeYear": 359,
     "dailyMinutesDown": {
       "2025-06-15": 37,
       "2025-09-14": 43,
@@ -287,7 +287,7 @@
       "2026-04-11": 47,
       "2026-04-21": 113,
       "2026-05-06": 97,
-      "2026-06-14": 0
+      "2026-06-14": 98
     }
   }
 ]
