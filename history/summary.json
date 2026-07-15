@@ -65,9 +65,9 @@
     "url": "https://www.thexyz.com",
     "icon": "https://www.thexyz.com/favicon.ico",
     "slug": "client-area",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.20%",
     "uptimeYear": "98.25%",
@@ -147,7 +147,8 @@
       "2026-06-08": 276,
       "2026-06-11": 107,
       "2026-06-21": 293,
-      "2026-07-04": 57
+      "2026-07-04": 57,
+      "2026-07-15": 1
     }
   },
   {
@@ -181,9 +182,9 @@
     "url": "https://bl.thexyz.com",
     "icon": "https://www.thexyz.com/favicon.ico",
     "slug": "blocklists",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.22%",
     "uptimeYear": "99.10%",
@@ -227,7 +228,8 @@
       "2026-05-23": 128,
       "2026-05-24": 197,
       "2026-06-21": 288,
-      "2026-07-04": 52
+      "2026-07-04": 52,
+      "2026-07-15": 0
     }
   },
   {
