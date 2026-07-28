@@ -236,17 +236,17 @@
     "url": "https://webmail.thexyzserver.com",
     "icon": "https://www.thexyz.com/favicon.ico",
     "slug": "roundcube",
-    "status": "down",
+    "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
-    "time": 442,
-    "timeDay": 195,
-    "timeWeek": 321,
-    "timeMonth": 342,
-    "timeYear": 451,
+    "uptimeDay": "93.84%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.92%",
+    "time": 441,
+    "timeDay": 226,
+    "timeWeek": 318,
+    "timeMonth": 340,
+    "timeYear": 450,
     "dailyMinutesDown": {
       "2025-09-29": 18,
       "2025-11-12": 53,
@@ -257,7 +257,7 @@
       "2026-02-17": 60,
       "2026-03-01": 18,
       "2026-03-26": 64,
-      "2026-07-28": 2
+      "2026-07-28": 89
     }
   },
   {
