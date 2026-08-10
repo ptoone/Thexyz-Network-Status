@@ -4,18 +4,20 @@
     "url": "https://dns.thexyz.com",
     "icon": "https://www.thexyz.com/favicon.ico",
     "slug": "dns",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 568,
-    "timeDay": 572,
-    "timeWeek": 559,
-    "timeMonth": 544,
+    "time": 567,
+    "timeDay": 513,
+    "timeWeek": 546,
+    "timeMonth": 541,
     "timeYear": 549,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-10": 0
+    }
   },
   {
     "name": "Webmail",
