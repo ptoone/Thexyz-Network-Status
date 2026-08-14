@@ -12,7 +12,7 @@
     "uptimeYear": "99.99%",
     "time": 566,
     "timeDay": 381,
-    "timeWeek": 620,
+    "timeWeek": 609,
     "timeMonth": 565,
     "timeYear": 549,
     "dailyMinutesDown": {
@@ -32,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 340,
     "timeDay": 160,
-    "timeWeek": 324,
+    "timeWeek": 293,
     "timeMonth": 348,
     "timeYear": 342,
     "dailyMinutesDown": {}
@@ -50,7 +50,7 @@
     "uptimeYear": "99.92%",
     "time": 834,
     "timeDay": 881,
-    "timeWeek": 1285,
+    "timeWeek": 1257,
     "timeMonth": 1308,
     "timeYear": 885,
     "dailyMinutesDown": {
@@ -66,16 +66,16 @@
     "url": "https://www.thexyz.com",
     "icon": "https://www.thexyz.com/favicon.ico",
     "slug": "client-area",
-    "status": "down",
+    "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "96.32%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "99.48%",
+    "uptimeDay": "95.96%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "98.22%",
     "time": 713,
-    "timeDay": 287,
-    "timeWeek": 406,
-    "timeMonth": 679,
+    "timeDay": 353,
+    "timeWeek": 396,
+    "timeMonth": 673,
     "timeYear": 696,
     "dailyMinutesDown": {
       "2025-08-20": 73,
@@ -150,7 +150,7 @@
       "2026-07-15": 68,
       "2026-07-31": 61,
       "2026-08-12": 43,
-      "2026-08-14": 53
+      "2026-08-14": 58
     }
   },
   {
@@ -166,7 +166,7 @@
     "uptimeYear": "99.89%",
     "time": 1078,
     "timeDay": 617,
-    "timeWeek": 727,
+    "timeWeek": 718,
     "timeMonth": 721,
     "timeYear": 1172,
     "dailyMinutesDown": {
@@ -184,16 +184,16 @@
     "url": "https://bl.thexyz.com",
     "icon": "https://www.thexyz.com/favicon.ico",
     "slug": "blocklists",
-    "status": "down",
+    "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "96.99%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.53%",
+    "uptimeDay": "96.63%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "99.06%",
     "time": 615,
-    "timeDay": 146,
-    "timeWeek": 269,
-    "timeMonth": 595,
+    "timeDay": 207,
+    "timeWeek": 265,
+    "timeMonth": 587,
     "timeYear": 596,
     "dailyMinutesDown": {
       "2025-08-31": 23,
@@ -234,7 +234,7 @@
       "2026-07-15": 68,
       "2026-07-31": 57,
       "2026-08-12": 38,
-      "2026-08-14": 43
+      "2026-08-14": 48
     }
   },
   {
@@ -250,7 +250,7 @@
     "uptimeYear": "99.92%",
     "time": 447,
     "timeDay": 451,
-    "timeWeek": 364,
+    "timeWeek": 365,
     "timeMonth": 461,
     "timeYear": 458,
     "dailyMinutesDown": {
@@ -279,7 +279,7 @@
     "uptimeYear": "99.84%",
     "time": 356,
     "timeDay": 857,
-    "timeWeek": 443,
+    "timeWeek": 474,
     "timeMonth": 369,
     "timeYear": 371,
     "dailyMinutesDown": {
