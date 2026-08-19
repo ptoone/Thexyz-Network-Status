@@ -42,13 +42,13 @@
     "url": "https://admin.thexyz.com",
     "icon": "https://www.thexyz.com/favicon.ico",
     "slug": "email-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.92%",
-    "time": 845,
+    "time": 846,
     "timeDay": 3863,
     "timeWeek": 1618,
     "timeMonth": 1390,
@@ -58,7 +58,8 @@
       "2026-02-16": 71,
       "2026-03-21": 154,
       "2026-03-20": 23,
-      "2026-07-27": 71
+      "2026-07-27": 71,
+      "2026-08-19": 0
     }
   },
   {
