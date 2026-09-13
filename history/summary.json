@@ -13,7 +13,7 @@
     "time": 561,
     "timeDay": 582,
     "timeWeek": 587,
-    "timeMonth": 529,
+    "timeMonth": 532,
     "timeYear": 547,
     "dailyMinutesDown": {
       "2026-08-10": 76
@@ -33,7 +33,7 @@
     "time": 338,
     "timeDay": 305,
     "timeWeek": 322,
-    "timeMonth": 315,
+    "timeMonth": 319,
     "timeYear": 342,
     "dailyMinutesDown": {}
   },
@@ -51,8 +51,8 @@
     "time": 862,
     "timeDay": 780,
     "timeWeek": 1137,
-    "timeMonth": 1168,
-    "timeYear": 921,
+    "timeMonth": 1179,
+    "timeYear": 920,
     "dailyMinutesDown": {
       "2026-02-16": 71,
       "2026-03-21": 154,
@@ -66,16 +66,16 @@
     "url": "https://www.thexyz.com",
     "icon": "https://www.thexyz.com/favicon.ico",
     "slug": "client-area",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.65%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "98.23%",
     "time": 718,
     "timeDay": 547,
     "timeWeek": 1472,
-    "timeMonth": 646,
+    "timeMonth": 659,
     "timeYear": 702,
     "dailyMinutesDown": {
       "2025-09-16": 15,
@@ -150,7 +150,8 @@
       "2026-08-14": 48,
       "2026-08-21": 30,
       "2026-08-25": 51,
-      "2026-09-03": 23
+      "2026-09-03": 23,
+      "2026-09-13": 5
     }
   },
   {
@@ -167,8 +168,8 @@
     "time": 1070,
     "timeDay": 568,
     "timeWeek": 694,
-    "timeMonth": 707,
-    "timeYear": 1171,
+    "timeMonth": 712,
+    "timeYear": 1172,
     "dailyMinutesDown": {
       "2025-12-26": 105,
       "2026-03-24": 66,
@@ -184,16 +185,16 @@
     "url": "https://bl.thexyz.com",
     "icon": "https://www.thexyz.com/favicon.ico",
     "slug": "blocklists",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.06%",
     "time": 591,
     "timeDay": 163,
     "timeWeek": 261,
-    "timeMonth": 247,
+    "timeMonth": 251,
     "timeYear": 540,
     "dailyMinutesDown": {
       "2025-12-15": 71,
@@ -235,7 +236,8 @@
       "2026-08-14": 43,
       "2026-08-21": 25,
       "2026-08-25": 46,
-      "2026-09-03": 18
+      "2026-09-03": 18,
+      "2026-09-13": 0
     }
   },
   {
@@ -252,7 +254,7 @@
     "time": 439,
     "timeDay": 315,
     "timeWeek": 295,
-    "timeMonth": 323,
+    "timeMonth": 319,
     "timeYear": 450,
     "dailyMinutesDown": {
       "2025-09-29": 18,
@@ -281,7 +283,7 @@
     "time": 353,
     "timeDay": 379,
     "timeWeek": 237,
-    "timeMonth": 301,
+    "timeMonth": 288,
     "timeYear": 365,
     "dailyMinutesDown": {
       "2025-09-14": 43,
