@@ -155,17 +155,17 @@
     "url": "https://quarantine.thexyz.com",
     "icon": "https://www.thexyz.com/favicon.ico",
     "slug": "quarantine",
-    "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.86%",
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "58.83%",
+    "uptimeWeek": "94.12%",
+    "uptimeMonth": "98.30%",
+    "uptimeYear": "99.74%",
     "time": 1059,
-    "timeDay": 776,
+    "timeDay": 714,
     "timeWeek": 651,
-    "timeMonth": 665,
-    "timeYear": 1152,
+    "timeMonth": 664,
+    "timeYear": 1151,
     "dailyMinutesDown": {
       "2025-12-26": 105,
       "2026-03-24": 66,
@@ -176,7 +176,7 @@
       "2026-06-24": 4,
       "2026-10-24": 52,
       "2026-10-23": 99,
-      "2026-11-16": 0
+      "2026-11-16": 593
     }
   },
   {
